@@ -5,7 +5,7 @@ function TopInto() {
     return (
         <div>
             {/* <img src="https://secureservercdn.net/198.71.233.69/e3n.efa.myftpupload.com/wp-content/uploads/2020/02/logo.png?time=1657726581" alt="#Img not found" style={{ width: "300px", height: "200px" }} /> */}
-            <div className="row px-md-4 px-2">
+            <div className="row">
                 <div className="col-12 col-lg-6">
                     <h1 className='top_heading_fontsize'>Real life services at your fingertip</h1><br />
                     <div className="px-md-5 top_heading">

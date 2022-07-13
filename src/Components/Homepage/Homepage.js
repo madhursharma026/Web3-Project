@@ -1,6 +1,7 @@
 import Services from './Services';
 import TopInto from './TopIntro'
 import './Homepage.css'
+import BillingDetails from './BillingDetails';
 
 
 function Homepage() {
@@ -14,6 +15,13 @@ function Homepage() {
             <br />
             <br />
             <Services />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <BillingDetails />
 
         </div>
     );

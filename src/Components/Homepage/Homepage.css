@@ -18,6 +18,12 @@
     font-size: 20px;
 }
 
+@media (min-width: 768px) {
+    .extra_warranty_div{
+        margin-top: 100px;
+    }
+}
+
 @media (min-width: 992px) {
     .services_intro_size {
         display: flex;
@@ -25,6 +31,9 @@
     }
     .services_intro{
         width: 700px;
+    }
+    .extra_warranty_div{
+        margin-top: 130px;
     }
 }
 
@@ -54,6 +63,13 @@
     .second_div_container_top_heading_fontsize {
         font-size: 25px;
         font-weight: 700;
+    }
+
+    .service_order_btn{
+        width: 100%;
+    }
+    .extra_warranty_div{
+        text-align: center;
     }
 }
 
