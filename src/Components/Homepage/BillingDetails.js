@@ -5,7 +5,7 @@ function BillingDetails() {
     return (
         <div className='container-md'>
             <div className="row">
-                <div className="col-lg-7 p-5" style={{ border: "1px solid black" }}>
+                <div className="col-lg-7 p-5" style={{ border: "1px solid black", background:"white" }}>
                     <h3>Billing Details</h3>
                     <div className="row">
                         <div className="col-lg-6 pt-4">
@@ -110,6 +110,7 @@ function BillingDetails() {
                             <div className="row">
                                 <div className="col-3 col-xl-2"><img src="https://images.unsplash.com/photo-1533035353720-f1c6a75cd8ab?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Z3JheXxlbnwwfHwwfHw%3D&w=1000&q=80" alt="#" width='50px' height='50px' /></div>
                                 <div className="col-9 col-xl-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel unde magnam tempore nisi</div>
+                                <p className='px-3 pt-2'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque enim ad repudiandae obcaecati blanditiis magni ullam et illum, quaerat fugit non vitae repellendus, veritatis sunt ut. Facilis veniam consequuntur officia?</p>
                             </div>
                         </div>
                     </div>
