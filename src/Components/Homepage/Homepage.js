@@ -22,6 +22,12 @@ function Homepage() {
             <br />
             <br />
             <BillingDetails />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
 
         </div>
     );
