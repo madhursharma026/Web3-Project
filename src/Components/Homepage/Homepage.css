@@ -1,3 +1,20 @@
+
+.flex-container {
+    display: flex;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
 .top_heading_fontsize {
     font-size: 55px;
     font-weight: 700;
@@ -66,7 +83,7 @@
     }
 
     .service_order_btn{
-        width: 100%;
+        width: 95%;
     }
     .extra_warranty_div{
         text-align: center;
