@@ -76,7 +76,7 @@ function BillingDetails() {
                     <button type="button" className="btn btn-dark w-100 p-3">connect to wallet</button>
                     <button type="button" className="btn btn-dark w-100 p-3" style={{ marginTop: "10px" }}>place order</button>
                 </div>
-                <div className="col-lg-5 px-5">
+                <div className="col-lg-5 px-md-5">
                     <img className='mt-5' src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Pan_Blue_Circle.png" alt="#image not found" width="100px" height="100px" />
                     <div className="card mt-5">
                         <div className="card-body text-center">
