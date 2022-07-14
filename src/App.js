@@ -8,7 +8,7 @@ function App() {
       <Router>
         <Route exact path="/">
           <Header />
-          <div className="px-5" style={{ paddingTop: "100px" }}>
+          <div className="px-5 mt-md-5" style={{ paddingTop: "100px" }}>
             <Homepage />
           </div>
         </Route>

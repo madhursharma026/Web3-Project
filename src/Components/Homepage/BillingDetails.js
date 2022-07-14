@@ -80,19 +80,19 @@ function BillingDetails() {
                     <img className='mt-5' src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Pan_Blue_Circle.png" alt="#image not found" width="100px" height="100px" />
                     <div className="card mt-5">
                         <div className="card-body text-center">
-                            <i class="fa fa-500px" style={{fontSize:"40px"}}></i>
+                            <i className="fa fa-500px" style={{fontSize:"40px"}}></i>
                             <h5>Your Information is secured</h5>
                         </div>
                     </div>
                     <div className="card mt-3">
                         <div className="card-body text-center">
-                            <i class="fa fa-500px" style={{fontSize:"40px"}}></i>
+                            <i className="fa fa-500px" style={{fontSize:"40px"}}></i>
                             <h5>100% Satisfaction Guaranteed</h5>
                         </div>
                     </div>
                     <div className="card mt-3">
                         <div className="card-body text-center">
-                            <i class="fa fa-500px" style={{fontSize:"40px"}}></i>
+                            <i className="fa fa-500px" style={{fontSize:"40px"}}></i>
                             <h5>We Protext your privacy</h5>
                         </div>
                     </div>
