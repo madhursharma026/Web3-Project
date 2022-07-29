@@ -114,7 +114,7 @@ function BillingDetails() {
                     </div>
                     <p className='py-3' style={{ fontSize: "15px" }}>Your personal data will be used to process your order, support your expreience throughtout this website, and for other purpose described in our privacy policy.</p>
                     <button type="button" className="p-3 btn btn-dark w-100">connect to wallet</button>
-                    <button type="button" className="p-3 btn btn-dark w-100" style={{ marginTop: "10px" }}>place order</button>
+                    <button type="button" className="p-3 btn btn-dark w-100" style={{ marginTop: "10px" }}>Schedule Yourself</button>
                 </div>
                 <div className="col-lg-5 px-md-5">
                     {/* <img className='mt-5' src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Pan_Blue_Circle.png" alt="#image not found" width="100px" height="100px" /> */}

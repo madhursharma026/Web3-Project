@@ -5,14 +5,14 @@ import HeaderLogo from '../../Assets/HeaderLogo/HeaderLogo.jpeg';
 
 function Header() {
 
-    async function getAccount(){
-        const accounts = await window.ethereum.request({method: "eth_requestAccounts"});
+    async function getAccount() {
+        const accounts = await window.ethereum.request({ method: "eth_requestAccounts" });
         const account = accounts[0];
         return account
     }
 
-    function connectButtonOnClick(){
-        if (typeof window !== 'undefined'){
+    function connectButtonOnClick() {
+        if (typeof window !== 'undefined') {
             getAccount().then((response) => {
                 console.log(response)
             }).catch(() => console.log("User didn't connect with metamask"))
